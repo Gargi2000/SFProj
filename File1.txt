@@ -1,6 +1,7 @@
 Hello World!!!!
 
 
+
 change 1 .
 
 change -done by tem mate on wi3.
@@ -11,8 +12,6 @@ Change : For WI6 ON LOCAL MASTER TO TEST PUSH
 
 Change :For bug 3 on remote master by team mate
 
-
-
-
+change: WI6 CHANGE FOR LOCAL MASTER 
 
 
