@@ -7,6 +7,8 @@ change -done by tem mate on wi3.
 
 change : for the bug 2
 
+Change : For WI6 ON LOCAL MASTER TO TEST PUSH
+
 
 
 
